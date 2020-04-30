@@ -1,0 +1,129 @@
+/*Extra small devices (portraut phone, less then 576px*/
+@media (max-width: 575.98px) {
+    .logo{
+        width: 180px;
+    }
+       .search a {
+    margin-left: 0px;
+ }
+ .home{
+    text-align: center
+ }
+ .banner-m {
+    margin: 80px 0;
+}
+ .banner {
+    background-image: none;
+}
+.banner-m h1 {
+    font-size: 35px;
+}
+.banner-m h2 {
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: capitalize;
+    color: #33ccff;
+}
+.kid {
+    margin-top: 10px;
+    padding: 50px 0;
+    text-align: center;
+ }
+ .hm {
+    margin-left: 0;
+ }
+ .dis{
+    width: 180px;
+ }
+ .kids {
+    margin-top: 40px;
+ }
+ .kid1 {
+    padding: 60px 0;
+ }
+ .k-content h4 {
+    font-size: 25px;
+}
+.featured{
+    margin-top: 10px 0;
+}
+
+/*small devices (landscape phone, less then 576px and up*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .search a {
+    margin-left: 0px;
+ }
+ .home{
+    text-align: center
+ }
+ .menu ul li a:hover{
+    background-color: #F05C5C;
+ }
+ .banner-m {
+    margin: 151px 0;
+}
+ .banner-m h1 {
+    font-size: 45px;
+ }
+ .banner-m h2 {
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #33ccff;
+ } 
+ .kid {
+    margin-top: 50px;
+    padding: 65px 0;
+ }
+ .dis{
+    width: 200px;
+ }
+ .kid1 {
+    padding: 75px 0;
+ }
+ .kids {
+    margin-top: 35px;
+ }
+}
+
+/*Medium devices (tablets, 768px and up*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .search a {
+    margin-left: 0px;
+ }
+ .home{
+    text-align: center
+ }
+ .banner-m {
+    margin: 113px 0;
+ }
+ .dis{
+    width: 150px;
+ }
+ .shl{
+    margin-top: 65px;
+ }
+ .kid {
+    margin-top: 50px;
+    padding: 79px 0;
+ }
+ .kid1 {
+    padding: 75px 0;
+ }
+ .kids {
+    margin-top: 25px;
+ }
+}
+
+/*Large devices (desktops, 992px and up*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.banner-m {
+    margin: 161px 0;
+ }
+ .shl{
+    margin-top: 20px;
+ }
+}
+
+/*Extra large devices (large desktops, 1200px and up*/
+@media (max-width: 1200px) {}

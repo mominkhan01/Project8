@@ -1,0 +1,617 @@
+body{
+	font-family: 'Dosis', sans-serif;
+	background-image: url(../images/edu1.png);
+	
+}
+
+
+
+/*********header start***********/
+
+
+header{
+	background-color: #FFD338;
+}
+.nav-link{
+	
+}
+.menu ul li a{
+	font-weight: 700;
+	font-size: 18px;
+	color: #fff !important;
+	padding: 0 20px !important;
+	transition: .5s;
+	border-radius: 20px;
+}
+.menu ul li a:hover{
+    background-color: #F05C5C;
+}
+.cus-user{
+	background-color: #F05C5C;
+}
+.user a{
+	color: #fff;
+	transition: .5s;
+}
+.user a:hover{
+	color: #F05C5C;
+}
+.search a{
+	margin-left: 15px;
+	color: #fff;
+	transition: .5s;
+}
+.search a:hover{
+	color: #F05C5C;
+}
+.momin a{
+	margin-bottom: 10px;
+}
+
+
+/*********header end***********/
+
+
+/*********banner start***********/
+
+.banner{
+	background-image: url(../images/edu.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.banner-m{
+	margin: 267px 0;
+}
+.banner-m h1{
+	font-weight: 700;
+	font-size: 60px;
+	color: #666;
+}
+.banner-m h2{
+	font-weight: 700;
+	font-size: 42px;
+	text-transform: capitalize;
+	color: #33ccff;
+}
+.scroll p{
+	font-weight: 400;
+	font-size: 18px;
+	color: #ccc;
+}
+.scroll i{
+	color: #ccc;
+	font-size: 25px;
+}
+
+
+/*********banner end***********/
+
+
+
+/*********kid start***********/
+
+
+.kid{
+	margin-top: 100px;
+	padding: 100px 0;
+}
+.common-title h1{
+	font-weight: 700;
+	font-size: 30px;
+	text-transform: uppercase;
+	color: #333;
+}
+.common-title hr{
+	border: none;
+	border-bottom: 6px dashed white;
+	width: 250px;
+}
+.school{
+	margin-top: 25px;
+}
+.school h4{
+	font-weight: 700;
+	font-size: 24px;
+	text-transform: capitalize;
+	color: #333;
+}
+.hm{
+	border: none;
+    border-bottom: 3px solid #ccc;
+    width: 290px;
+    margin-left: 0;
+}
+.school p{
+	font-weight: 400;
+	font-size: 16px
+	color: #333;
+}
+.school-img{
+	margin-top: 25px;
+}
+
+
+/*********kid end***********/
+
+/*********kid1 start***********/
+
+.kid1{
+	background-image: url(../images/kid1.png);
+	background-size: cover;
+	background-repeat: no-repeat; 
+	padding: 100px 0;
+}
+.kids{
+	margin-top: 50px;
+}
+.k-content h4{
+	font-weight: 700;
+	font-size: 30px;
+	text-transform: capitalize;
+	color: #fff;
+	margin-top: 20px;
+}
+
+
+/*********kid1 end***********/
+
+
+
+/*********featured start***********/
+
+/*card 1*/
+.featured{
+	margin: 100px 0;
+}
+.feat{
+	margin-top: 50px;
+}
+.head{
+	background-color: #1EC0FF;
+	color: #fff;
+	font-size: 18px;
+}
+.art{
+	font-weight: 600;
+	font-size: 26px;
+	color: #1EC0FF;
+}
+.lessons{
+	font-weight: 400;
+	font-size: 18px;
+	color: #333;
+}
+.age{
+	font-weight: 400;
+	font-size: 20px;
+	color: #333;
+}
+/*card 2*/
+.heade{
+	background-color: #56D47E;
+	color: #fff;
+	font-size: 18px;
+}
+.math{
+	font-weight: 600;
+	font-size: 26px;
+	color: #56D47E;
+}
+/*card 3*/
+.middle{
+	background-color: #F05C5C;
+	color: #fff;
+	font-size: 18px;
+}
+.Science{
+	font-weight: 600;
+	font-size: 26px;
+	color: #F05C5C;
+}
+/*card 4*/
+.end{
+	background-color: #FFD338;
+	color: #fff;
+	font-size: 18px;
+}
+.environment{
+    font-weight: 600;
+	font-size: 26px;
+	color: #FFD338;
+}
+
+
+/*********featured end***********/
+
+
+
+/*********moment start***********/
+
+
+.moment{
+	background-image: url(../images/bg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 100px 0;
+}
+.mon{
+	margin-top: 50px;
+}
+.more{
+	margin-top: 60px;
+}
+
+
+/*********moment end***********/
+
+
+/*********twitter start***********/
+
+
+.twitter{
+	padding: 100px 0;
+}
+.icons i{
+	font-size: 60px;
+	color: #1EC0FF;
+}
+.icons p{
+	color: #1EC0FF;
+	font-size: 24px;
+    margin-top: 15px;
+}
+.great{
+	font-size: 18px;
+    word-spacing: 8px;
+    color: #333;
+    margin-top: 25px;
+}
+.tweets{
+	color: #1EC0FF;
+	font-size: 16px;
+	margin-top: 15px;
+}
+
+/*********twitter end***********/
+
+
+
+/*********about start***********/
+
+
+.about{
+
+}
+.about-us{
+	padding: 100px 0;
+}
+.who{
+	margin-top: 5px;
+}
+.who h4{
+	font-weight: 700;
+	font-size: 28px;
+	color: #1EC0FF;
+}
+.who p{
+	font-weight: 400;
+	font-size: 18px;
+	color: #333;
+}
+.who q{
+	font-size: 15px;
+    line-height: 2;
+    word-spacing: 2px;
+}
+.who hr{
+	margin: 10px;
+}
+.social{
+	margin-top: 20px;
+}
+.social i{
+	padding: 0 15px;
+	font-size: 24px
+}
+.social i:first-child{
+	padding-left:  0;
+}
+.social i:last-child{
+	padding-left:  0;
+}
+.fa-facebook-f:before {
+    color: #4366FF;
+}
+.fa-twitter:before {
+    color: #1EC0FF;
+}
+.fa-google-plus-g:before {
+    color: #F05C5C;
+}
+.fa-tumblr:before {
+    color: #0B3861;
+}
+.fa-vimeo-v:before {
+    color: #1ab7ea;
+}
+.fa-wifi:before {
+    color: #F37C6F;
+}
+.follow{
+	font-weight: 700;
+	font-size: 20px;
+	color: black;
+	margin-top: 15px;
+}
+.s1, .s2, .s3, .s4{
+	margin-top: 40px;
+}
+.who-alba h4{
+	font-weight: 700;
+	font-size: 28px;
+	color: #56D47E;
+}
+.who-jack h4{
+	font-weight: 700;
+	font-size: 28px;
+	color: #F05C5C;
+}
+.who-rose h4{
+	font-weight: 700;
+	font-size: 28px;
+	color: #FFD338;
+}
+
+
+
+/*********about end***********/
+
+
+/*************we do start************/
+
+
+.learn{
+	background-image: url(../images/black.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 100px 0
+}
+.common-title h6{
+	font-weight: 700;
+	font-size: 30px;
+	text-transform: uppercase;
+	color: #56D47E;
+}
+.hours{
+	margin-top: 50px;
+}
+
+
+/*************we do end*************/
+
+
+
+/*************events start*************/
+
+
+.events{
+	padding: 100px 0;
+}
+.timeline h1{
+	font-weight: 700;
+	font-size: 30px;
+	color: #333333;
+	text-transform: uppercase;
+}
+.timeline hr{
+	border: none;
+    border-bottom: 5px dashed white;
+    width: 170px;
+    margin-left: 20px;
+    margin-bottom: 45px;
+}
+.news h1{
+	font-weight: 700;
+	font-size: 30px;
+	color: #333333;
+	text-transform: uppercase;
+}
+.news hr{
+	border: none;
+    border-bottom: 5px dashed white;
+    width: 170px;
+    margin-left: 4px;
+    margin-bottom: 20px;
+}
+.aug{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+    border: 51px solid #1EC0FF;
+    float: left;
+    margin-right: 15px;
+    margin-top: 33px;
+}
+.aug h1{
+    margin: -29px 6px -10px -15px;
+    font-weight: 700;
+    font-size: 43px;
+    color: #fff;
+}
+.aug p{
+	margin: 0px 0px 3px -12px;
+	font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.art{
+    margin-top: 54px;
+}
+.art h2{
+    font-weight: 700;
+    font-size: 24px;
+    color: #333;
+    text-transform: capitalize;
+}
+.art p{
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: -9px;
+}
+.mind-img{
+	float: left;
+    margin-right: 15px;
+    width: 252px;
+}
+.active{
+	margin-top: 15px;
+}
+.active h1{
+	font-weight: 700;
+    font-size: 24px;
+    text-transform: capitalize;
+}
+.active hr{
+	border: none;
+    border-bottom: 5px dotted #1EC0FF;
+    width: 223px;
+    margin-right: 144px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.active p{
+	font-size: 14px;
+    color: #333;
+    margin-top: 10px;
+}
+.active h6{
+    font-size: 14px;
+    color: #333;
+    margin-top: -7px;
+}
+
+/*************events end*************/
+
+
+/*************contact start*************/
+
+
+.contact{
+	padding: 100px 0;
+	background-image: url(../images/education.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.c-logo{
+	margin-top: 80px;
+}
+.c-logo img{}
+.c-logo p{
+	font-weight: 400;
+	font-size: 18px;
+	color: #333333;
+	margin-top: 25px;
+}
+.c-logo h3 {
+    font-weight: 400;
+    font-size: 20px;
+    color: #333;
+    text-transform: capitalize;
+    margin-top: 15px;
+}
+.instagram{
+	margin-top: 100px;
+}
+.instagram h1{
+	font-weight: 700;
+	font-size: 24px;
+	text-transform: uppercase;
+	color: #FFC852;
+	margin-bottom: 20px;
+}
+.instagram hr{
+	border: none;
+    border-bottom: 4px dotted #FFC852;
+    width: 140px;
+    margin-left: 0;
+}
+.s-img{
+	margin: 35px 0px;
+}
+.ins-img{
+	margin-top: 20px;
+}
+.us{
+	margin-top: 100px;
+}
+.us h1{
+	font-weight: 700;
+	font-size: 24px;
+	text-transform: uppercase;
+	color: #56D47E;
+	margin-bottom: 20px;
+}
+.us hr{
+	border: none;
+    border-bottom: 4px dotted #56D47E;
+    width: 140px;
+    margin-left: 0;
+}
+.us h3{
+	font-weight: 400;
+    font-size: 20px;
+    color: #333;
+    text-transform: capitalize;
+    margin-top: 30px;
+}
+.news{
+	margin-top: 100px;
+}
+.news h1{
+	font-weight: 700;
+	font-size: 24px;
+	text-transform: uppercase;
+	color: #F48585;
+	margin-bottom: 20px;
+}
+.news hr{
+	border: none;
+    border-bottom: 4px dotted #F48585;
+    width: 140px;
+    margin-left: 0;
+}
+.news h3{
+	font-weight: 400;
+    font-size: 20px;
+    color: #333;
+    text-transform: capitalize;
+    margin-top: 30px;
+}
+.s-icons{
+	margin-top: 20px;
+}
+.s-icons i{
+	padding: 0 12px;
+	font-size: 20px
+}
+.s-icons i:first-child{
+	padding-left:  0;
+}
+.s-icons i:last-child{
+	padding-left:  0;
+}
+
+
+/*************contact end*************/
+
+
+/*************footer start*************/
+
+
+footer{
+	background-color: #FFD338;
+}
+
+
+/*************footer end*************/
